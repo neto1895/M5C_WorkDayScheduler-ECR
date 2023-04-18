@@ -15,7 +15,6 @@ The following image shows the application first look and functionality.
 ![Quiz page demo](./assets/images/deployedpage.gif)
 
 
-
 ## Usage
 
 To use this page you can click at the row you would like to write, to save it just click on the save icon and will it be save in the local storage.  
