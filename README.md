@@ -10,7 +10,7 @@ This is a calendar application that allows a user to save events for each hour o
 
 (https://neto1895.github.io/M5C_WorkDayScheduler-ECR/)
 
-The following image shows the application first look and functionality.
+The following image shows the application first look and functionality. The functionallity lack the colors due the time is created the gif.
 
 ![Quiz page demo](./assets/images/deployedpage.gif)
 
