@@ -1,5 +1,3 @@
-# M5C_-ECR
-
 ![Web Developer](https://img.shields.io/badge/bootcamp-Web%20Developer-red)
 # Module 5 Challenge Work Day Scheduler [Web Developer]
 
