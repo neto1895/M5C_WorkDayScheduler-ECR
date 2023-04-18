@@ -39,4 +39,4 @@ $(function () {     //Wrap all code that interacts with the DOM in a call to jQu
         $outerDiv.appendTo('.container-lg.px-5');
     }
   });
-  init();
+  init(); //calls function as the page loads.
